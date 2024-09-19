@@ -33,4 +33,5 @@ body {
 }
 .unselectable {
   user-select: none; /* Prevents text selection */
+  cursor: pointer;
 }
